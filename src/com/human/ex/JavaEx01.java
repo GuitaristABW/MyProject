@@ -3,7 +3,7 @@ package com.human.ex;
 public class JavaEx01 {
 	
 	public static void main(String[] args) {
-		//수정
+		//수정222
 		System.out.println("--------- 문제1 ----------");
 		System.out.println("MyHello ->Hello) {");
 		System.out.println("pub(I소문자로)ic static void main(s(S대문자)tring[] args) {");
